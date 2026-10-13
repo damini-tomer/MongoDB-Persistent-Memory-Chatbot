@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langchain-huggingface
+langchain-mongodb
+pymongo
+sentence-transformers
+python-dotenv
+streamlit

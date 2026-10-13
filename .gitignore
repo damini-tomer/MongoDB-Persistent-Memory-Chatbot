@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Secrets and API Keys
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Old/Unused App Files (Optional)
+app.py
+app2.py
